@@ -1,0 +1,18 @@
+{
+    "name": "wmzs/webwechat",
+    "description": "webwechat",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MrDawei",
+            "email": "659717656@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+        	"Wmzs\\WebWeChat\\":"src/"
+        }
+    },
+}
