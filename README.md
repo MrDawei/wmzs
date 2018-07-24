@@ -1,2 +1,1 @@
-# wmzs
-laravel for web wechat
+# wechat
